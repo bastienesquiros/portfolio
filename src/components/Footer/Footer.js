@@ -1,14 +1,14 @@
 import './Footer.css'
 
 const Footer = () => (
-  <footer className='footer'>
-    <a
-      href='https://github.com/rajshekhar26/cleanfolio'
-      className='link footer__link'
-    >
-      Created By Raj Shekhar
-    </a>
-  </footer>
+    <footer className='footer'>
+        <a
+            href='https://open.spotify.com/playlist/2ln3m4Wsq4ntzYfV7kkdbq?si=505295e6bef44a04'
+            className='link footer__link'
+        >
+            Spotify Playlist
+        </a>
+    </footer>
 )
 
 export default Footer
